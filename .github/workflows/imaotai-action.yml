@@ -7,7 +7,7 @@ on:
   push:
     branches: [ "main" ]
   schedule:
-    - cron: '46 16,17 * * *'
+    - cron: '20 1,2 * * *'
 
 env:
   TZ: Asia/Shanghai
