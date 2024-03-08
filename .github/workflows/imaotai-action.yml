@@ -5,9 +5,9 @@ name: imaotai-action
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   schedule:
-    - cron: '30 16,17 * * *'
+    - cron: '46 16,17 * * *'
 
 env:
   TZ: Asia/Shanghai
