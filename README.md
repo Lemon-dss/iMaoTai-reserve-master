@@ -83,9 +83,6 @@ python3 main.py
 - *ame
 
 ## 特别感谢
-技术思路：https://blog.csdn.net/weixin_47481826/article/details/128893239
-
-初版代码：https://github.com/tianyagogogo/imaotai
 
 
 
